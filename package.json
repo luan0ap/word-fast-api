@@ -1,0 +1,28 @@
+{
+  "name": "word-fast-api",
+  "version": "1.0.0",
+  "description": "A API for word-fast project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luan0ap/word-fast-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luan0ap/word-fast-api/issues"
+  },
+  "homepage": "https://github.com/luan0ap/word-fast-api#readme",
+  "dependencies": {
+    "cors": "^2.8.4",
+    "express": "^4.16.4",
+    "express-graphql": "^0.6.12",
+    "fs": "0.0.1-security",
+    "graphql": "^14.0.2",
+    "graphql-tag": "^2.10.0",
+    "path": "^0.12.7"
+  }
+}
