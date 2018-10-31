@@ -1,5 +1,3 @@
-const data = require('../../db')
-
 module.exports = {
-  data
+  words: () => require('../../db')
 }
